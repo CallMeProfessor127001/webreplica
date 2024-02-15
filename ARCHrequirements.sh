@@ -1,4 +1,3 @@
-#!/bin/bash/
 
 sudo pacman -Syy
 sudo pacman -Syu
